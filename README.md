@@ -11,7 +11,7 @@ The starter code provided the maze environment, the `TreasureMaze` and `GameExpe
 
 ## What Do Computer Scientists Do, and Why Does It Matter?
 
-Computer scientists design, develop, test, and improve computational systems to solve problems efficiently and reliably. Their work matters because software and intelligent systems influence fields such as healthcare, education, business, security, and transportation. Developing these systems requires technical knowledge as well as an understanding of the people who will use them and the consequences of their implementation.
+Computer scientists design, develop, test, and improve computational systems to solve problems cleverly and reliably. Their work matters because software and intelligent systems influence fields such as healthcare, education, business, security, and transportation. Developing these systems requires technical knowledge as well as an understanding of the people who will use them and the consequences of their implementation.
 
 ## How Do I Approach a Problem as a Computer Scientist?
 
@@ -23,7 +23,7 @@ My ethical responsibilities include developing reliable software, protecting use
 
 ## Project Files
 
-- `YourName_ProjectTwo.ipynb` — Jupyter Notebook containing the pirate intelligent agent and its training implementation.
+- `Simon_Nikita_ProjectTwo.ipynb` — Jupyter Notebook containing the pirate intelligent agent and its training implementation.
 
 ## Project Reflection
 
